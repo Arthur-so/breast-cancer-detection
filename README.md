@@ -1,5 +1,14 @@
 # Projeto de Classificação de Imagens Termográficas
 
+## Artigo
+O artigo conta como foi todo o processo de desenvolvimento e de metodologia experimental, além de abordar conceitos importantes utilizados no pojeto
+
+## Apresentação
+Uma breve apresentação em pdf condensa as informações do artigo de forma mais objetivo e sintetizada.
+
+## Instalação
+Para instalar as dependências necessárias para executar de forma local, basta executa o arquivo `install-env.bat`.
+
 ## Exploração da Base de Dados
 
 Este projeto utiliza a base de dados **DMR-IR**, que contém imagens termográficas de mamas coletadas pelo Laboratório Visual para Pesquisa em Mastologia da Universidade Federal Fluminense (UFF). As imagens foram capturadas com uma câmera térmica FLIR SC620 e possuem resolução de 480 x 640 pixels.
